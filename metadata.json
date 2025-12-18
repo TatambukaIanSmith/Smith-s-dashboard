@@ -1,0 +1,8 @@
+{
+  "name": "Job-lyNK Admin Pro",
+  "description": "A high-performance, Apple-inspired admin dashboard for managing the Job-lyNK platform with AI-powered insights, real-time analytics, and comprehensive moderation tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
